@@ -1,0 +1,94 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+html {
+    background-color: #ccc;
+}
+body {
+    width: 70%;
+    margin: 0 auto;
+    background-color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 28px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-weight: normal;
+    background-color: #1c94c4;
+    padding: 5px 10px;
+}
+
+h2 {
+    font-size: 24px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-weight: normal;
+    text-align: center;
+    color: #125a0d;
+}
+a.btn-normal {
+    display:inline-block;
+    padding: 10px;
+    width: 100px;
+    background-color: #1563f0;
+    color: #fff;
+    margin-top: 5px;
+    text-decoration: none;
+}
+
+.clearfix:after {
+    content: " ";
+    display: block;
+    clear: both;
+    height: 0;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.list-center {
+    text-align: center;
+    list-style-type: lower-roman;
+}
+
+footer {
+    margin-top: 10px;
+    border-top: 1px solid #1c94c4;
+    padding: 5px 30px 0 30px;
+}
+
+footer a {
+    color: #000;
+    text-decoration: none;
+    margin: 0 4px;
+}
+
+.h2-board {
+    font-size: 50px;
+}
+
+.center-defination {
+    text-align: center;
+    font-size: 40px;
+    padding: 60px 0px;
+    color: red;
+}
+.noun-figures {
+    float: left;
+    margin-left: 18px;
+    border: 2px solid black;
+}
+
+.noun-figures figcaption {
+    text-align: center;
+    font-size: 20px;
+}
+
+.aparagraph {
+    font-size: 26px;
+    text-align: center;
+    margin-bottom: 20px;
+}
